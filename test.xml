@@ -1,0 +1,37 @@
+{
+  "_id": "fe71f194-7178-44b6-be13-05df3c46fe0c",
+  "userManagedInd": "N",
+  "comments": null,
+  "roleId": "100465",
+  "linkedCentralRoleCd": null,
+  "created": "2012-01-20T00:00:00.000Z",
+  "description": "A role",
+  "groups": [
+    {
+      "groupId": "30",
+      "name": "Dean and Associate",
+      "description": "Deans and their designations who can represent and/or have access to AAMC resources on behalf of the Deans",
+      "instIdRequired": "Y",
+      "status": "I",
+      "created": "2018-10-26T15:12:41.000Z",
+      "modified": "2018-10-26T15:12:51.000Z",
+      "memberCount": "100",
+      "_id": "26142bc4-ff0f-49a8-a050-48586f344197"
+    }
+  ],
+  "appCode": "ERAS-PDWS",
+  "securityLevel": "2",
+  "ownerInstId": "0",
+  "createdBy": [
+    {
+      "givenName": "John",
+      "sn": "Smith",
+      "aamcId": "20939324",
+      "mail": "iignatiev@aamc.org"
+    }
+  ],
+  "tokenBankInd": "N",
+  "name": "A role",
+  "useInstInd": "N",
+  "appRoleHumanReadable": null
+}
